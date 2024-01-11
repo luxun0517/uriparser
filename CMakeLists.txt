@@ -134,7 +134,7 @@ set(API_HEADER_FILES
     ${CMAKE_CURRENT_SOURCE_DIR}/include/uriparser/UriBase.h
     ${CMAKE_CURRENT_SOURCE_DIR}/include/uriparser/UriDefsAnsi.h
     ${CMAKE_CURRENT_SOURCE_DIR}/include/uriparser/UriDefsConfig.h
-    ${CMAKE_CURRENT_SOURCE_DIR}/include/uriparser/UriDefsUnicode.h
+        include/uriparser/UriDefsUnicode.h
     ${CMAKE_CURRENT_SOURCE_DIR}/include/uriparser/Uri.h
     ${CMAKE_CURRENT_SOURCE_DIR}/include/uriparser/UriIp4.h
 )

@@ -20,3 +20,4 @@
 /uriparser-*.tar.*
 /uriparser-*.zip
 /uriparse
+*.obj
